@@ -1,4 +1,4 @@
-package aula08;
+package aula04;
 
 /*
 M013 Ler um vetor A de 15 números. Após, ler mais um número

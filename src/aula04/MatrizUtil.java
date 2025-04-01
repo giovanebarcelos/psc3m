@@ -1,4 +1,4 @@
-package aula08;
+package aula04;
 
 public class MatrizUtil {
     public int[][] somar(int[][] matrizA, int[][] matrizB) {

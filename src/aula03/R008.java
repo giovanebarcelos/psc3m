@@ -1,4 +1,4 @@
-package aula06;
+package aula03;
 
 /*
 R008 Escreva um algoritmo que leia um valor inteiro,

@@ -1,4 +1,4 @@
-package aula08;
+package aula04;
 
 /*
 M008 Desenvolva um algoritmo que some duas matrizes 3x3

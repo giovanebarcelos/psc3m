@@ -1,4 +1,4 @@
-package aula04;
+package aula02;
 /*
   C002 Leia um número inteiro e informar se ele
    é par ou impar.

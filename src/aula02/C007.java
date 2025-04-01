@@ -1,4 +1,4 @@
-package aula04;
+package aula02;
 /*
 C007 Faça um algoritmo que leia dois números quaisquer e informe
      se o primeiro é menor, é igual ou maior que o segundo número digitado.

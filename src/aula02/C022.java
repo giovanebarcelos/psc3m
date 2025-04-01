@@ -1,4 +1,4 @@
-package aula04;
+package aula02;
 /*
 C022 Dados 3 valores referentes aos lados de um triângulo
      determinar se é EQUILÁTERO (todos os lados são iguais),
