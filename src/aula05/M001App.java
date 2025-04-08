@@ -14,5 +14,8 @@ public class M001App {
         Comanda comanda = new Comanda();
 
         comanda.fazerPedido();
+
+        System.out.printf("Quantidade Total de Calorias: %dcal",
+                comanda.getTotalCalorias());
     }
 }
