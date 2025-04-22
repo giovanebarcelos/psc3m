@@ -1,4 +1,4 @@
-package aula06;
+package simuladoA1;
 
 import java.util.Scanner;
 
